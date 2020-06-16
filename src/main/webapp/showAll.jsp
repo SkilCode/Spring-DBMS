@@ -11,7 +11,7 @@
 <title>All Data</title>
 </head>
 <body>
-
+ 
 <form action="logout" class="text-center">
 <input type="button" class="text-center btn btn-dark" onclick="window.location.href='index.jsp'" value="Go Back" >
 <input type="submit" class="btn btn-dark" value="logout">
